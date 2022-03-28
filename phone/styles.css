@@ -1,0 +1,10 @@
+body {
+  min-height: 100vh;
+}
+
+div.center {
+  text-align: center;
+  width: 80vw;
+  margin: 0 auto;
+}
+
